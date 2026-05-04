@@ -20,7 +20,7 @@ Ini cara paling dasar buat misahin objek. Intinya, kita nentuin batas warna: yan
 *   **Adaptif**: Bagus kalau gambarnya punya pencahayaan yang nggak rata[cite: 1].
 
 **Hasil Visualisasi:**
-*(Sisipkan file: **Screenshot 2026-05-04 110655.jpg**)*
+![](https://github.com/Indahwakifa/UTS_PENGOLAHAN-CITRA/blob/082cd7fc6d73a71132f1c769cf45253b85d4d178/SS_UTS%20CITRA/Screenshot%202026-05-04%20110655.png)
 *Di sini kelihatan kalau metode Otsu paling bersih hasilnya dibanding yang lain.*
 
 ---
