@@ -31,7 +31,7 @@ Kalau ini tujuannya cuma buat nyari garis pinggir dari setiap bulatan[cite: 1].
 *   **Canny**: Hasilnya jauh lebih rapi, tipis, dan presisi mengikuti bentuk bulatan[cite: 1].
 
 **Hasil Visualisasi:**
-*(Sisipkan file: **Screenshot 2026-05-04 111214.jpg**)*
+![](https://github.com/Indahwakifa/UTS_PENGOLAHAN-CITRA/blob/8b87488c0dd1bf5fc52a1574bcd2920678dc6bfc/SS_UTS%20CITRA/Screenshot%202026-05-04%20111214.png)
 
 ---
 
