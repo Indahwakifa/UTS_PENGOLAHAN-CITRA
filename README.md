@@ -9,7 +9,7 @@ KELAS:1241E
 #### **1. Pembuatan Citra (Input)**
 Dalam proyek ini, aku nggak pakai foto dari luar, tapi bikin sendiri lewat kodingan Python agar hasilnya lebih terkontrol. Gambarnya berupa 5 lingkaran dengan tingkat terang-gelap yang beda-beda, terus aku tambahin efek bintik-bintik (*noise*) biar kayak foto asli[cite: 1].
 
-*(Sisipkan file: **Screenshot 2026-05-04 111258.jpg** sebelah kiri bagian "Asli")*
+![](https://github.com/Indahwakifa/UTS_PENGOLAHAN-CITRA/blob/26b3add76b692de182c44865e91877df61f38b94/SS_UTS%20CITRA/Screenshot%202026-05-04%20112158.png)
 
 ---
 
