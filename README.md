@@ -41,7 +41,7 @@ Dua metode ini cara kerjanya beda lagi:
 *   **KMeans**: Ini pakai logika pengelompokan warna (clustering). Dia bakal ngelompokkin piksel-piksel yang warnanya mirip jadi satu grup[cite: 1].
 
 **Hasil Visualisasi:**
-*(Sisipkan file: **Screenshot 2026-05-04 111258.jpg** dan **Screenshot 2026-05-04 111227.jpg**)*
+![](https://github.com/Indahwakifa/UTS_PENGOLAHAN-CITRA/blob/70c456801ec70842fabc1f64fb1cfb6d1da5816b/SS_UTS%20CITRA/Screenshot%202026-05-04%20111258.png)
 
 ---
 
