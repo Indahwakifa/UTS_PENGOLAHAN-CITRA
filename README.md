@@ -42,7 +42,9 @@ Dua metode ini cara kerjanya beda lagi:
 
 **Hasil Visualisasi:**
 ![](https://github.com/Indahwakifa/UTS_PENGOLAHAN-CITRA/blob/70c456801ec70842fabc1f64fb1cfb6d1da5816b/SS_UTS%20CITRA/Screenshot%202026-05-04%20111258.png)
+
 ![](https://github.com/Indahwakifa/UTS_PENGOLAHAN-CITRA/blob/10329cfa9654a6e7cfe856f3d6e44c64f890e314/SS_UTS%20CITRA/Screenshot%202026-05-04%20111227.png)
+
 ---
 
 #### **5. Metode 4: Watershed (Paling Canggih)**
@@ -58,7 +60,7 @@ Metode ini keren banget karena bisa misahin dua objek yang nempel[cite: 1]. Logi
 Terakhir, aku ngecek seberapa sukses segmentasi ini dengan ngebandingin hasil kodingan (**Prediksi**) sama kunci jawaban aslinya (**Ground Truth**)[cite: 1]. Aku pakai hitungan **IoU** dan **Dice** buat dapet angka persentase kemiripannya[cite: 1].
 
 **Hasil Visualisasi:**
-*(Sisipkan file: **Screenshot 2026-05-04 112158.jpg**)*
+![](https://github.com/Indahwakifa/UTS_PENGOLAHAN-CITRA/blob/8f53a03b8cd5abafdeb0cc701a0e66b43cd7a7cc/SS_UTS%20CITRA/Screenshot%202026-05-04%20112158.png)
 
 ---
 
