@@ -42,7 +42,7 @@ Dua metode ini cara kerjanya beda lagi:
 
 **Hasil Visualisasi:**
 ![](https://github.com/Indahwakifa/UTS_PENGOLAHAN-CITRA/blob/70c456801ec70842fabc1f64fb1cfb6d1da5816b/SS_UTS%20CITRA/Screenshot%202026-05-04%20111258.png)
-
+![](https://github.com/Indahwakifa/UTS_PENGOLAHAN-CITRA/blob/10329cfa9654a6e7cfe856f3d6e44c64f890e314/SS_UTS%20CITRA/Screenshot%202026-05-04%20111227.png)
 ---
 
 #### **5. Metode 4: Watershed (Paling Canggih)**
