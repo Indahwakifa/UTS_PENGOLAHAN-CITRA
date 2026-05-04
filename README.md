@@ -49,7 +49,7 @@ Dua metode ini cara kerjanya beda lagi:
 Metode ini keren banget karena bisa misahin dua objek yang nempel[cite: 1]. Logikanya kayak air yang ngalir. Kita cari dulu pusat setiap bulatan (pakai *Distance Transform*), terus kita kasih garis pembatas merah di antara mereka[cite: 1].
 
 **Hasil Visualisasi:**
-*(Sisipkan file: **Screenshot 2026-05-04 111656.jpg**)*
+![](https://github.com/Indahwakifa/UTS_PENGOLAHAN-CITRA/blob/b87a3a751e5e4814e5770e9914b22a020d5c73c3/SS_UTS%20CITRA/Screenshot%202026-05-04%20111656.png)
 *Perhatikan bagian "Distance" yang menyala terang, itu adalah pusat setiap objek.*
 
 ---
